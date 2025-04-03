@@ -12,35 +12,35 @@ Maven Market, a multinational grocery chain with locations in Canada, Mexico, an
 
 # Key Features and Benefits:
 
-1.	Regional Performance Comparison:
-  i.	The dashboard enables the sales team to compare performance across different regions (Canada, Mexico, US) by visualizing metrics like total sales, units sold, and growth over time.
-  ii.	Regional leaders can drill down into specific locations to understand which stores or areas are performing well and which need attention.
+# 1. Regional Performance Comparison:
+1. The dashboard enables the sales team to compare performance across different regions (Canada, Mexico, US) by visualizing metrics like total sales, units sold, and growth over time.
+2. Regional leaders can drill down into specific locations to understand which stores or areas are performing well and which need attention.
 
-2.	Product Category Trends:
-  i.	Interactive visuals allow users to explore product category performance in detail. The dashboard provides insights into top-performing categories, seasonal trends, and variations 
-      in demand over time.
-  ii.	Identifies underperforming categories, enabling better stock management and product focus.
+# 2. Product Category Trends:
+1. Interactive visuals allow users to explore product category performance in detail. The dashboard provides insights into top-performing categories, seasonal trends, and variations 
+   in demand over time.
+2. Identifies underperforming categories, enabling better stock management and product focus.
 
-3.	High-Value Customers Identification:
-  i.	With calculated fields and customer segmentation, the dashboard highlights high-value customers based on purchase behavior, frequency, and total spend.
-  ii.	Helps the sales and marketing teams target promotions and loyalty programs more effectively.
+# 3. High-Value Customers Identification:
+1. With calculated fields and customer segmentation, the dashboard highlights high-value customers based on purchase behavior, frequency, and total spend.
+2. Helps the sales and marketing teams target promotions and loyalty programs more effectively.
 
-4.	Time-Based Analysis:
-  i.	The dashboard offers the ability to analyze sales data over different time periods (daily, weekly, monthly, yearly) to identify trends, seasonal patterns, and performance 
-      fluctuations.
-  ii.	Supports historical comparisons to track year-over-year growth and understand the impact of promotional campaigns.
+# 4. Time-Based Analysis:
+1. The dashboard offers the ability to analyze sales data over different time periods (daily, weekly, monthly, yearly) to identify trends, seasonal patterns, and performance 
+   fluctuations.
+2. Supports historical comparisons to track year-over-year growth and understand the impact of promotional campaigns.
 
-5.	Real-time Data Refresh:
-  i.	Integrated with the company’s sales databases, the dashboard updates in real-time, allowing the sales team to access up-to-the-minute information.
-  ii.	Real-time updates ensure that managers and decision-makers can act quickly to address performance issues or capitalize on emerging opportunities.
+# 5. Real-time Data Refresh:
+1. Integrated with the company’s sales databases, the dashboard updates in real-time, allowing the sales team to access up-to-the-minute information.
+2. Real-time updates ensure that managers and decision-makers can act quickly to address performance issues or capitalize on emerging opportunities.
 
-6.	User Interactivity:
-  i.	Users can filter and drill down on specific data points, enabling them to focus on the information most relevant to their needs.
-  ii.	Interactive slicers and buttons allow stakeholders to quickly adjust the view, enhancing the dashboard’s usability.
+# 6. User Interactivity:
+1. Users can filter and drill down on specific data points, enabling them to focus on the information most relevant to their needs.
+2. Interactive slicers and buttons allow stakeholders to quickly adjust the view, enhancing the dashboard’s usability.
 
-7.	Key Performance Indicator (KPI) Tracking:
-  i.	KPIs like total revenue, sales growth, average transaction value, and sales per employee are clearly visualized.
-  ii.	The dashboard allows managers to set targets and track progress in real-time.
+# 7. Key Performance Indicator (KPI) Tracking:
+1. KPIs like total revenue, sales growth, average transaction value, and sales per employee are clearly visualized.
+2. The dashboard allows managers to set targets and track progress in real-time.
 
 # Implementation Process:
 1.	Data Preparation: Raw sales data from multiple sources (regional databases, point-of-sale systems, customer databases) was gathered and cleaned to ensure consistency and accuracy.
